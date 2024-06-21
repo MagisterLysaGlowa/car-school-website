@@ -1,0 +1,13 @@
+.shadow-header {
+  text-shadow: rgb(227, 227, 227) 2px 2px;
+}
+
+.card-background {
+  background: rgb(44, 163, 250);
+  background: linear-gradient(
+    90deg,
+    rgba(44, 163, 250, 1) 0%,
+    rgba(41, 121, 240, 1) 48%,
+    rgba(62, 121, 236, 1) 100%
+  );
+}
